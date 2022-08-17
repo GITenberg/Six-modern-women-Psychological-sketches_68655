@@ -7,6 +7,9 @@ contributor:
     deathdate: 1951
     gutenberg_agent_id: '54341'
     url: http://www.gutenberg.org/2009/agents/54341
+covers:
+- cover_type: archival
+  image_path: 68655-h/images/cover.jpg
 creator:
   author:
     agent_name: Marholm, Laura
@@ -22,6 +25,8 @@ creator:
     - https://de.wikipedia.org/wiki/Laura_Marholm
     - https://en.wikipedia.org/wiki/Laura_Marholm
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68655#Six-modern-women-Psychological-sketches
 gutenberg_issued: '2022-07-31'
 identifiers:
   gutenberg: '68655'
